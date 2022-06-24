@@ -1,4 +1,4 @@
-This project is about a Personal voice assistant can be runed on a raspberry pi, it can:
+This project is about a Personal voice assistant can be runned on a raspberry pi, it can:
 
 Send emails
 Play music 
